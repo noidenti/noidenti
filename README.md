@@ -1,6 +1,6 @@
 # Merhaba, ben Elif! 👋
 
-Bilgisayar Programcılığı 1. sınıf öğrencisi olarak yazılım dünyasına yeni ve heyecanlı bir giriş yapıyorum. Öğrenme sürecimi şeffaf bir şekilde paylaşıyor, teorik bilgilerimi pratik projelere dönüştürmeye çalışıyorum. Bilgisayarı ve onun çalışma hikayesi beni çok etkiliyor ve meraklandırıyor. Bu nedenle de kendimi okul dışında da geliştirmek ve öğrenmeye açık olmak da hedeflerim arasında.
+Bilgisayarların çalışma mantığı ve arka plandaki o büyüleyici hikayesi beni her zaman çok etkiledi, içimdeki merakı hep canlı tuttu. Bu merakın peşinden giderek Bilgisayar Programcılığı bölümüne başladım ve yazılım dünyasına heyecanlı bir giriş yaptım. Şu an 1. sınıf öğrencisi olarak öğrenme sürecimi şeffaf bir şekilde paylaşıyor, edindiğim teorik bilgileri pratik projelere dönüştürmeye çalışıyorum.
 
 ### 🚀 Neler Öğreniyorum?
 Şu anda temel seviyede üzerinde çalıştığım ve kendimi geliştirdiğim teknolojiler:
