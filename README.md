@@ -1,10 +1,10 @@
 # Merhaba, ben Elif! 👋
 
-Bilgisayarların çalışma mantığı ve arka plandaki o büyüleyici hikayesi beni her zaman çok etkiledi, içimdeki merakı hep canlı tuttu. Bu merakın peşinden giderek Bilgisayar Programcılığı bölümüne başladım ve yazılım dünyasına heyecanlı bir giriş yaptım. Şu an 1. sınıf öğrencisi olarak öğrenme sürecimi şeffaf bir şekilde paylaşıyor, edindiğim teorik bilgileri pratik projelere dönüştürmeye çalışıyorum.
+Bilgisayarların çalışma mantığı ve arka plandaki oluşum hikayesi beni çok etkiledi. Bu merakın peşinden giderek Bilgisayar Programcılığı bölümüne başladım ve yazılım dünyasına heyecanlı bir giriş yaptım. Şu an 1. sınıf öğrencisi olarak öğrenme sürecimi şeffaf bir şekilde paylaşıyor, edindiğim teorik bilgileri pratik projelere dönüştürmeye çalışıyorum.
 
 ### 🚀 Neler Öğreniyorum?
 Şu anda temel seviyede üzerinde çalıştığım ve kendimi geliştirdiğim teknolojiler:
-- **Diller:** C#, Python, JS
+- **Diller:** C#, Python, JS 
 - **Veri Tabanı:** SQL (Temel sorgular ve mantık)
 - **Web & Mobil:** HTML5, CSS3, Expo Framework
 
